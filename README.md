@@ -80,6 +80,18 @@ Movie-recommendation-system/
 > **Note:** The TMDB dataset CSV files (`tmdb_5000_movies.csv`, `tmdb_5000_credits.csv`) and `similarity.pkl` are not included in the repository due to file size. Download them separately (see Dataset section).
 
 ---
+## 🚀 Live Demo
+
+👉 Click here to try the app:  
+https://movie-recommendation-system-jappijxxwzrx27f9utgbnmp.streamlit.app/
+---
+
+## 🔮 Future Improvements
+
+- 🖼️ Add movie posters using the TMDB API
+- ⭐ Incorporate collaborative filtering for hybrid recommendations
+- 🔍 Add a search bar with autocomplete
+- 📱 Make the UI mobile-responsive
 
 ## 🏁 Getting Started
 
@@ -112,22 +124,6 @@ Make sure you have Python 3.7+ installed.
    ```
    This will generate `movies_list.pkl` and `similarity.pkl`.
 
----
-
-## 🚀 Live Demo
-
-👉 Click here to try the app:  
-https://movie-recommendation-system-jappijxxwzrx27f9utgbnmp.streamlit.app/
-
----
-
-## 🔮 Future Improvements
-
-- 🖼️ Add movie posters using the TMDB API
-- ⭐ Incorporate collaborative filtering for hybrid recommendations
-- 🔍 Add a search bar with autocomplete
-- 📱 Make the UI mobile-responsive
-- 🌐 Deploy on Streamlit Cloud or Heroku
 
 ---
 
