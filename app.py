@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import ast
 
 from sklearn.feature_extraction.text import CountVectorizer
