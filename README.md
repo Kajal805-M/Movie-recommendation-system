@@ -114,15 +114,10 @@ Make sure you have Python 3.7+ installed.
 
 ---
 
-## ▶️ Usage
+## 🚀 Live Demo
 
-Launch the Streamlit app:
-
-```bash
-streamlit run kiki.py
-```
-
-Then open your browser at `http://localhost:8501`, select a movie from the dropdown, and click **Recommend** to get 5 similar movie suggestions.
+👉 Click here to try the app:  
+https://movie-recommendation-system-jappijxxwzrx27f9utgbnmp.streamlit.app/
 
 ---
 
