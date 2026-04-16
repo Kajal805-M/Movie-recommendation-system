@@ -37,9 +37,9 @@ This project recommends movies similar to a user-selected title by analyzing mov
 | Python | Core programming language |
 | Pandas & NumPy | Data manipulation and processing |
 | Scikit-learn | CountVectorizer & Cosine Similarity |
-| Streamlit | Web application UI |
 | Pickle | Model serialization |
 | Matplotlib & Seaborn | Data visualization (EDA) |
+| Streamlit | 
 
 ---
 
