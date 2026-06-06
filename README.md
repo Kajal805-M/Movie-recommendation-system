@@ -39,7 +39,7 @@ This project recommends movies similar to a user-selected title by analyzing mov
 | Scikit-learn | CountVectorizer & Cosine Similarity |
 | Pickle | Model serialization |
 | Matplotlib & Seaborn | Data visualization (EDA) |
-| Streamlit | 
+| Streamlit | Deploy project |
 
 ---
 
